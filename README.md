@@ -41,7 +41,7 @@ Catalan (Native) · Spanish (Native) · English (Fluent) · Korean (Learning)
   Project for the VJ (Video Games) course at FIB UPC. A recreation of the browser Game Bloxorz, implemented from scratch using C# and Unity. <br>
    `C#` `Unity`
 
-**Global Game-JAM**
+**Global Game Jam**
 * **[BUBBLE BANGO](https://github.com/albpb/BUBBLE-BANGO)**  
   Bubble Bango was created as part of the Global Game Jam 2025 event held at UPC Barcelona. The theme of the jam was "Bubble".  <br>
   `C#` `Unity` `Aseprite`
