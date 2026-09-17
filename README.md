@@ -33,15 +33,12 @@ Catalan (Native) · Spanish (Native) · English (Fluent) · Korean (Learning)
   `Java`
 * **[Plate Detection](https://github.com/fibmixx/VC-FIB-Plate-Detection)**  
   Project for the VC (Computer Vision) course at FIB UPC. A MATLAB image reader with OCR that detects and reads European Plate Numbers.
-
   `Matlab`
 * **[Metal Gear](https://github.com/fibmixx/VJ-FIB-Metal-Gear)**  
-  Project for the VJ (Video Games) course at FIB UPC. A recreation of the classic NES title Metal Gear, implemented from scratch using C++ and OpenGL. 
-
+  Project for the VJ (Video Games) course at FIB UPC. A recreation of the classic NES title Metal Gear, implemented from scratch using C++ and OpenGL.
   `C++` `OpenGL` `Aseprite`
 * **[Bloxorz](https://github.com/fibmixx/VJ-FIB-Bloxorz)**  
   Project for the VJ (Video Games) course at FIB UPC. A recreation of the browser Game Bloxorz, implemented from scratch using C# and Unity.
-
    `C#` `Unity`
 
 **Global Game-JAM**
