@@ -1,4 +1,4 @@
-# Marc 👋
+# Marc
 
 Informatics Engineering student @ **FIB - UPC** (Barcelona), passionate about software engineering and game development.
 
