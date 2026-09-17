@@ -29,24 +29,24 @@ Catalan (Native) · Spanish (Native) · English (Fluent) · Korean (Learning)
 
 **University Projects**
 * **[Hidato](https://github.com/fibmixx/PROP-FIB-Hidato)**  
-  Project for the PROP course at FIB UPC. Java application for generation, validation and resolution of Hidatos. Incorporates game persistance, punctuation system and solving algorythms based on backtracking.  
+  Project for the PROP course at FIB UPC. Java application for generation, validation and resolution of Hidatos. Incorporates game persistance, punctuation system and solving algorythms based on backtracking.  <br>
   `Java`
 * **[Plate Detection](https://github.com/fibmixx/VC-FIB-Plate-Detection)**  
-  Project for the VC (Computer Vision) course at FIB UPC. A MATLAB image reader with OCR that detects and reads European Plate Numbers.
+  Project for the VC (Computer Vision) course at FIB UPC. A MATLAB image reader with OCR that detects and reads European Plate Numbers. <br>
   `Matlab`
 * **[Metal Gear](https://github.com/fibmixx/VJ-FIB-Metal-Gear)**  
-  Project for the VJ (Video Games) course at FIB UPC. A recreation of the classic NES title Metal Gear, implemented from scratch using C++ and OpenGL.
+  Project for the VJ (Video Games) course at FIB UPC. A recreation of the classic NES title Metal Gear, implemented from scratch using C++ and OpenGL. <br>
   `C++` `OpenGL` `Aseprite`
 * **[Bloxorz](https://github.com/fibmixx/VJ-FIB-Bloxorz)**  
-  Project for the VJ (Video Games) course at FIB UPC. A recreation of the browser Game Bloxorz, implemented from scratch using C# and Unity.
+  Project for the VJ (Video Games) course at FIB UPC. A recreation of the browser Game Bloxorz, implemented from scratch using C# and Unity. <br>
    `C#` `Unity`
 
 **Global Game-JAM**
 * **[BUBBLE BANGO](https://github.com/albpb/BUBBLE-BANGO)**  
-  Bubble Bango was created as part of the Global Game Jam 2025 event held at UPC Barcelona. The theme of the jam was "Bubble".  
+  Bubble Bango was created as part of the Global Game Jam 2025 event held at UPC Barcelona. The theme of the jam was "Bubble".  <br>
   `C#` `Unity` `Aseprite`
 * **[Mask'o Tabasco](https://github.com/M4xp0w3rg4m3s/MaskoTabasco)**  
-  Mask'o Tabasco was created as part of the Global Game Jam 2026 event held at UPC Barcelona. The theme of the jam was "Mask".  
+  Mask'o Tabasco was created as part of the Global Game Jam 2026 event held at UPC Barcelona. The theme of the jam was "Mask".  <br>
   `C#` `Unity` `Aseprite`
 
 ---
