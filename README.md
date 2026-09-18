@@ -1,6 +1,6 @@
 # Marc
 
-Informatics Engineering student @ **FIB - UPC** (Barcelona), passionate about software engineering and game development.
+Informatics Engineering student at **FIB - UPC** (Barcelona), passionate about software engineering and game development.
 
 ---
 
@@ -55,7 +55,7 @@ Catalan (Native) · Spanish (Native) · English (Fluent) · Korean (Learning)
 
 * My main interests are NMIXX, Fate Series and Pokémon.
 * Passionate gamer, love JRPGs (such as Pokémon, Persona and Yakuza:Like a Dragon) and multiplayer games (such as LoL and Overwatch).
-* Love listening to music, primarly K-Pop, J-Pop and EDM. Some of my favorite artists from those genres are NMIXX, milet and underscores.
+* Love listening to music, primarly K-Pop, J-Pop and EDM. Some of my favorite artists from those genres are NMIXX, AiNA THE END and underscores.
 * Used to play baseball competitively.
 
 ---
