@@ -27,6 +27,11 @@ Catalan (Native) · Spanish (Native) · English (Fluent) · Korean (Learning)
 
 ### Projects
 
+**Personal Projects**
+* **[Merlin](https://github.com/fibmixx/Merlin)**
+A desktop flashcard application to manage, organize, and practice custom vocabulary sets. <br>
+`Python`
+
 **University Projects**
 * **[Hidato](https://github.com/fibmixx/PROP-FIB-Hidato)**  
   Project for the PROP course at FIB UPC. Java application for generation, validation and resolution of Hidatos. Incorporates game persistance, punctuation system and solving algorythms based on backtracking.  <br>
